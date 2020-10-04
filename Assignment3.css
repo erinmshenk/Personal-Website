@@ -1,0 +1,77 @@
+/*
+	Erin Shenk
+	Assignment 3
+	September 16, 2020
+*/
+
+body
+{
+	background-color: lightblue;
+}
+
+h1
+{
+	font-family: arial;
+	color: white;
+	text-align: center;
+}
+
+h4
+{
+	text-align: center;
+}
+
+ul.photo
+{
+	list-style-type: none;
+}
+
+img.first
+{
+	width: 150px; 
+	height: 275px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+img.inlist
+{
+	width: 150px; 
+	height: 275px
+}
+
+table
+{
+	border: 2px; 
+	border-style: solid;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+a:link
+{
+	color: black;
+}
+
+a:visited
+{
+	color: white;
+}
+
+a:hover
+{
+	color: pink;
+}
+
+a:active
+{
+	color: darkblue;
+}
